@@ -1,0 +1,8 @@
+Variables 	Variable description
+User ID 	a unique number that identifies each player
+version 	whether the player was put in the control group A
+		(gate_30 - a gate at level 30) or the test group B
+		(gate_40 - a gate at level 40)
+sum_gamerounds	the number of game rounds played by the player during the first week after installation
+retention_1 	did the player come back and play 1 day after installing?
+retention_7 	did the player come back and play 7 days after installing?
